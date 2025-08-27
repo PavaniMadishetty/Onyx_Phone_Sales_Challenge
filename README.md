@@ -1,4 +1,5 @@
 Onyx Data DNA Challenge – Phone Sales Analysis (May 2025)
+
 📌 Project Overview
 
 This project was developed for the Onyx Data DNA Challenge – May 2025, focusing on analyzing mobile phone sales data (2024).
